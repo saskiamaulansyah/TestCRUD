@@ -71,6 +71,7 @@ public class frmMain extends javax.swing.JFrame {
         tbldata = new javax.swing.JTable();
 
         setDefaultCloseOperation(javax.swing.WindowConstants.EXIT_ON_CLOSE);
+        setResizable(false);
         getContentPane().setLayout(null);
 
         jPanel1.setBackground(new java.awt.Color(204, 0, 0));
